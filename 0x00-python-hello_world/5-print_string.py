@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-number = 3.14159
+str = "Holberton School"
 print(f"{3*str}\n{str[:9]}")
