@@ -1,8 +1,8 @@
 # alx-higher_level_programming
 <h3>Tasks </h3>
-0. Safe list printing
-mandatory
-Write a function that prints x elements of a list.
+<h4>0. Safe list printing<h4>
+
+  <b>Write a function that prints x elements of a list.</b>
 <br>
 Prototype: def safe_print_list(my_list=[], x=0):<br>
 my_list can contain any type (integer, string, etc.)<br>
