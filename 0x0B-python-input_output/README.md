@@ -33,5 +33,10 @@
 </li>
 </ol></li>
 <li>100-append_after.py Write a function that inserts a line of text to a file, after each line containing a specific string (see example):</li>
-<li>Write a script that reads stdin line by line and computes metrics:</li>
+<li>101-stats.py Write a script that reads stdin line by line and computes metrics:
+<ol>
+<li>Input format: <IP Address> - [<date>] "GET /projects/260 HTTP/1.1" <status code> <file size></li>
+<li>Each 10 lines and after a keyboard interruption (CTRL + C), prints those statistics</li>
+
+</ol></li>
 </ul>
